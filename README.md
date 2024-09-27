@@ -21,5 +21,3 @@ Developed a classic arcade-style **Centipede Game** as the final project for **P
 **Note**: This project is included for **demonstration purposes only** and is **not released under an open-source license**. The **source code** is not provided for public use or modification without explicit permission.
 
 ---
-
-This format is clean, organized, and emphasizes key points of your project!
