@@ -1,4 +1,3 @@
-Here’s a **README** for your **Centipede Game project** with headings and bold formatting:
 
 ---
 
